@@ -1,0 +1,101 @@
+{
+    "m_SelectedDeviceId": "LHS7N19118033892",
+    "m_SelectedPackage": {
+        "deviceId": "LHS7N19118033892",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 12303,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "LHS7N19118033892",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6290,
+            "exited": true
+        },
+        {
+            "deviceId": "LHS7N19118033892",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 7141,
+            "exited": true
+        },
+        {
+            "deviceId": "LHS7N19118033892",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9247,
+            "exited": true
+        },
+        {
+            "deviceId": "LHS7N19118033892",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 10452,
+            "exited": true
+        },
+        {
+            "deviceId": "LHS7N19118033892",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11517,
+            "exited": true
+        },
+        {
+            "deviceId": "LHS7N19118033892",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 12303,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 0,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": true,
+    "m_SymbolPaths": []
+}
